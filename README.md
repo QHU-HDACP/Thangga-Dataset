@@ -2,7 +2,7 @@
 Please notice that this dataset is made available for academic research purpose only. All the images are collected from the Internet, and the copyright belongs to the original owners. If any of the images belongs to you and you would like it removed, please kindly inform us, we will remove it from our dataset immediately.
 
 ## Data overview
-We are making available a large newly collected dataset -**Thangka**- of **RGB** images with a large diversity of contents.
+We are making available a large newly collected dataset -**Thangga**- of **RGB** images with a large diversity of contents.
 
 The Thangga dataset is divided into:
 - train data: starting from 746 high definition high resolution images we obtain corresponding low resolution images and provide both high and low resolution images for 2, 3, and 4 downscaling factors.
